@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Christina. 
 - 😄 Pronouns: She/Her
+- :sparkles: Currently learning about: OpenAPI
+- :rocket: Hobbies: finding new breweries, hiking, reading
 
 <div align="center">
     <h2> About Me</h2>
